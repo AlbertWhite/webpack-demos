@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11"
+  },
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  }
+}

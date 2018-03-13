@@ -60,7 +60,8 @@ It has benefits (server, bundle) but it requires some benifits for making all th
 
 I used to use create-react-app to create react apps. This demo is for creating a project with webpack for compiling jsx, scss, import imgs, including dev version and prod version.
 
-
+* config babelrc for presets and install babel-loader for .js and .jsx
+* use htmlwebpackplugin for pass a template html file
 
 ### other important features
 
